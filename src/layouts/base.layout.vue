@@ -63,7 +63,7 @@ const tools = computed<ToolCategory[]>(() => [
           <div>
             IT-Tools
 
-            <c-link target="_blank" rel="noopener" :href="`https://github.com/CorentinTh/it-tools/tree/v${version}`">
+            <c-link target="_blank" rel="noopener" :href="`https://nahu.eu.org`">
               v{{ version }}
             </c-link>
 
