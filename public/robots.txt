@@ -1,2 +1,3 @@
 User-agent: *
-Disallow:
+Allow: /
+Sitemap: https://nahu.eu.org/sitemap.xml
